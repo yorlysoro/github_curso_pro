@@ -13,3 +13,27 @@ body {
     background: #fff;
     border: 1px solid #ddd;
 }
+
+#branding {
+    margin: 0 0 20px 0;
+}
+
+nav {
+    margin: 0 0 20px 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav ul i {
+    margin-right: 5px;
+}
+
+ul i a {
+    color: #666;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
