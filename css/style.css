@@ -5,3 +5,11 @@ body {
     line-height: 20px;
     color: #333333;
 }
+
+#container {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+}
